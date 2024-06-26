@@ -1,1 +1,1 @@
-# 4-Stage-Lossless-Compression
+# Quadruple Layer Lossless Compression
